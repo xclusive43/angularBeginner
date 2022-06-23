@@ -1,5 +1,5 @@
 # DigiTal and AnaLog Clock
-<img src="Screenshot 2022-06-23 164638.jpg" width="250px" height="110">
+<img src="Screenshot 2022-06-23 164638.jpg" width="250px" height="150">
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
 ## Development server
